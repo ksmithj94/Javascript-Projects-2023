@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.lionClass {
+  margin: 20px;
+  width: 100px;
+  height: 100px;
+  outline: 5px solid black;
+  cursor: pointer;
+}
+
+.tigerClass {
+  margin: 20px;
+  width: 100px;
+  height: 100px;
+  outline: 5px solid black;
+  cursor: pointer;
+}
+
+.dogClass {
+  margin: 20px;
+  width: 100px;
+  height: 100px;
+  outline: 5px solid black;
+  cursor: pointer;
+}
